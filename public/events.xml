@@ -106,3 +106,13 @@
   </event>
  </track>
 </events>
+
+<events> <track type="begin">
+  <title>My Birthday<title>
+  <date type="start">
+    <year>2006</year>
+    <month>11</month>
+    <day>01</day>
+    </date>
+    <descirption>My date of birth</descirption>
+</track></events>
